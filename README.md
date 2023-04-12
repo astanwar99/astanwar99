@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/astanwar99/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=astanwar99&count_private=true&show_icons=true&theme=radical&hide=contribs,stars" />
+  <img align="left" src="http://github-readme-stats-git-master-astanwar99.vercel.app/api?username=astanwar99&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/astanwar99/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astanwar99&count_private=true&show_icons=true&hide=matlab,Jupyter%20Notebook&theme=radical" />
+  <img align="left" src="http://github-readme-stats-git-master-astanwar99.vercel.app/api/top-langs/?username=astanwar99&count_private=true&show_icons=true&hide=matlab,Jupyter%20Notebook&theme=radical" />
 </a>
